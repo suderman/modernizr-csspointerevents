@@ -1,0 +1,10 @@
+{
+  "name": "modernizr-csspointerevents",
+  "version": "1.0.0",
+  "main": "modernizr-csspointerevents.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
